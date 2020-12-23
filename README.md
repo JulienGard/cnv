@@ -1,4 +1,4 @@
-# Collecte des donneés
+# Collecte des données
 L'application "les bases de la CNV" ne collecte aucunes données utilisateurs.
 
 # Assistance
